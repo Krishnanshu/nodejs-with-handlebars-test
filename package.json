@@ -14,10 +14,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.4",
-    "express-handlebars": "^3.0.0",
-    "express-mustache": "^1.0.3",
-    "hogan-middleware": "^0.2.2",
-    "mu2": "^0.5.21",
-    "mustache": "^2.3.0"
+    "express-handlebars": "^3.0.0"
   }
 }
