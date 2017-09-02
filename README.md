@@ -1,9 +1,11 @@
 # Simple node.js template test with handlebars
 
 Start new npm project
+
 `npm init`
 
 Insert express and express-handlebars dependencies for your npm project
+
 `npm install express express-handlebars --save`
 
 Import the dependencies in your JS (*server.js*)
